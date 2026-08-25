@@ -1,0 +1,10 @@
+{
+  "name": "assay-probe",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Verification fixture for the portfolio assay gate",
+  "scripts": {
+    "test": "node --test tests/"
+  }
+}
